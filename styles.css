@@ -52,7 +52,7 @@ body{
 .oi{
     border: none;
     border-radius: 5px;
-    background-color: grey;
+    background-color: #404c54;
     color: white;
     width: 60px;
     height: 40px;
@@ -66,9 +66,9 @@ body{
 }
 
 .oi svg{
-    fill: blue;
-    width: 8px;
-    height: 8px;
+    fill: #86b2d5;
+    width: 10px;
+    height: 10px;
     position: absolute;
     top: 24px;
     right: 9px;
@@ -78,9 +78,9 @@ body{
 .tu{
     border: none;
     border-radius: 5px;
-    background-color: grey;
+    background-color: #404c54;
     color: white;
-    width: 190px;
+    width: 165px;
     height: 40px;
     display: flex;
     align-items: center;
@@ -92,9 +92,9 @@ body{
 }
 
 .tu svg{
-    fill: blue;
-    width: 8px;
-    height: 8px;
+    fill: #86b2d5;
+    width: 10px;
+    height: 10px;
     position: absolute;
     top: 24px;
     right: 5px;
@@ -103,7 +103,7 @@ body{
 .boa{
     border: none;
     border-radius: 5px;
-    background-color: #396430;
+    background-color: #08ac84;
     color: white;
     width: 135px;
     height: 40px;
@@ -118,8 +118,8 @@ body{
 
 .boa svg{
     fill: white;
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     position: absolute;
     top: 24px;
     right: 5px;
@@ -128,7 +128,7 @@ body{
 .voce{
     border: none;
     border-radius: 5px;
-    background-color: #396430;
+    background-color: #08ac84;
     color: white;
     width: 190px;
     height: 40px;
@@ -143,8 +143,8 @@ body{
 
 .voce svg{
     fill: white;
-    width: 8px;
-    height: 8px;
+    width: 10px;
+    height: 10px;
     position: absolute;
     top: 24px;
     right: 5px;
